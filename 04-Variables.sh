@@ -1,7 +1,7 @@
 #!/bin/bash
 
 User1=$1
-User2=
+User2=$2
 
 echo "$User1 :: Hi, Are you alright?"
 echo "$User2 :: I am doing great $User1, how about you $User2?"
