@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Providing user names as command line arguments while executing the script
 User1=$1
 User2=$2
 
