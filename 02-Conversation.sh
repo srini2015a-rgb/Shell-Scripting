@@ -1,4 +1,4 @@
 #!/bin/bash
 
-Echo "Swamy :: Hi, Are you alright?"
-Echo "Jay :: I am doing great, how about u?"
+echo "Swamy :: Hi, Are you alright?"
+echo "Jay :: I am doing great, how about u?"
