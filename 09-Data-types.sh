@@ -15,5 +15,6 @@ echo "Sum is $SUM"
 FRIENDS=("Jack" "Jill" "John")
 echo "All Friends are ${FRIENDS[@]}"
 echo "Second Friend is ${FRIENDS[1]}"
-
+size=${#FRIENDS[@]} 
+echo "Total number of friends are $size"
 
