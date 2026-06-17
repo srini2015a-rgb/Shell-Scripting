@@ -8,5 +8,6 @@ NUMBER2=200
 NAME=Srini
 SUM=$((NUMBER1+NUMBER2+${NAME}))
 echo "Sum is $SUM"
-
+FRIENDS="Jack   Jill   John"
+echo "Friends are $FRIENDS"
 
